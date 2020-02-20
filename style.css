@@ -5,7 +5,7 @@ h1{
     font-size: 50px;
 }
 .name-highlight{
-    color: orange;
+    color: #C80000;
 }
 .half-width{
     width: 40%;
@@ -14,5 +14,5 @@ h1{
     padding-left: 2%;
 }
 .half-width img{
-    width: 100%;
+    width: 70%;  
 }
